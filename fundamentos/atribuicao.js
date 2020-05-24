@@ -13,3 +13,6 @@ console.log(b)
 
 b /= 2 // b = b / 2 (atribuição divisiva)
 console.log(b)
+
+b %=2 // b = b % 2 (resto da divisao)
+console.log(b)
